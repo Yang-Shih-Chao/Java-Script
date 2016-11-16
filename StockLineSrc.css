@@ -1,0 +1,14 @@
+.pathline {
+	stroke: red;
+	stroke-width: 3;
+	fill: none;
+}
+#pathline2 {
+	stroke: green;
+}
+#pathline3 {
+	stroke: blue;
+}
+#pathline4 {
+	stroke: black;
+}
